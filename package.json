@@ -1,0 +1,16 @@
+{
+  "name": "asst12_cms",
+  "version": "1.0.0",
+  "description": "Develop a CMS with node, mysql and inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "\test\test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console": "^0.7.2",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
